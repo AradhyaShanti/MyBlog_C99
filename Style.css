@@ -1,0 +1,31 @@
+Body {
+    background: gray;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: brown;
+    text-decoration: wavy;
+}
+
+img:hover{
+border-radius: 140px;
+}
+
+.result1 img{
+    border-radius: initial;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+.resultRow .result2 img {
+    border: cadetblue;
+    border-radius: initial;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#camera{
+    border: brown;
+}
